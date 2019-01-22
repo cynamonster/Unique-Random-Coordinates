@@ -11,4 +11,9 @@ Screenshot of the program running in an OS X Terminal:
 
 Works with Python 2.7 (Preinstalled on MacOS)
 
+## Installation Instructions
 
+1. Open Terminal (Applications > Utilities > Terminal).
+2. To download the file, enter `git clone https://github.com/cynamonster/Unique-Random-Coordinates.git Downloads/random-coords`.
+*If you don't already have git installed, you'll be prompted to do so!*
+3. To run the file, enter `python Downloads/random-coords/random-coords.py`.
