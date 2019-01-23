@@ -9,6 +9,7 @@
 
 
 import random
+import os
 
 def samplegrid(rows, columns, samples):
         try:
@@ -37,9 +38,16 @@ def triplicate(samplegrid_output):
                 else:
                         print'Coordinate #', num, ' : ', samplegrid_output[(i-3):i]
 
-class bcolors:
-    WARNING = '\033[93m'
-    ENDC = '\033[0m'
+if os.system('defaults read -g AppleInterfaceStyle') == 0:
+        class bcolors:
+                WARNING = '\033[93m'
+                ENDC = '\033[0m'
+else:
+        class bcolors:
+                WARNING = '\033[94m'
+                ENDC = '\033[0m'
+
+
 
 print
 print '_______________________________________________________________'
