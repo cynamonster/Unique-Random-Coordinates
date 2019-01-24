@@ -31,6 +31,7 @@ Works with Python 2.7 (Preinstalled on MacOS)
 
 3. Odds are that the zip was downloaded to your `Downloads` foler. Saw it appear at the bottom-right of your browser? Click it to unzip it.
 
-4. [Install Python](https://datascience.com.co/how-to-install-python-2-7-and-3-6-in-windows-10-add-python-path-281e7eae62a "Follow the instructions here to install Python")
+4. [Follow the instructions here to install Python](https://datascience.com.co/how-to-install-python-2-7-and-3-6-in-windows-10-add-python-path-281e7eae62a "Install Python")
 
-5.  Open your start menu and type `cmd`. We're going to the Command Prompt. Press `ENTER`.
+5. Once Python is installed, open your start menu and type `cmd`. We're going to the Command Prompt. Press `ENTER`.
+
