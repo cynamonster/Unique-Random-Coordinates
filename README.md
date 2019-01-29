@@ -13,6 +13,8 @@ Works with Python 2.7 (Preinstalled on MacOS)
 
 ## Installation Instructions
 
+### MacOS
+
 1. Open Terminal. This can be done in one of the following ways:
    * Navigate to Applications > Utilities > Terminal
    * Hold Command and press the spacebar, to open Spotlight Search, and type in `Terminal`
@@ -20,3 +22,16 @@ Works with Python 2.7 (Preinstalled on MacOS)
 2. To download the file, enter `git clone https://github.com/cynamonster/Unique-Random-Coordinates.git Downloads/random-coords`. If you don't already have git installed, your computer will prompt you to install it. Once installed, run this command again.
 
 3. To run the file, enter `python Downloads/random-coords/random-coords.py`.
+
+### Windows
+
+1. Near the top-right of this page, you'll notice a green button that reads *Clone or Download*.
+
+2. Click it, then select *Download ZIP*.
+
+3. Odds are that the zip was downloaded to your `Downloads` foler. Saw it appear at the bottom-right of your browser? Click it to unzip it.
+
+4. [Follow the instructions here to install Python](https://datascience.com.co/how-to-install-python-2-7-and-3-6-in-windows-10-add-python-path-281e7eae62a "Install Python")
+
+5. Once Python is installed, open your start menu and type `cmd`. We're going to the Command Prompt. Press `ENTER`.
+
